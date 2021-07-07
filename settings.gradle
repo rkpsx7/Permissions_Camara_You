@@ -1,0 +1,2 @@
+rootProject.name = "Permissions_Camara_You"
+include ':app'
